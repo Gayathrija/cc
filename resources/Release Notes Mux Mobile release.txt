@@ -1,0 +1,22 @@
+Mendix Mobile patch release 26-3-2013
+
+Changes:
+- Major speed improvement! Starting the App and logging in is much faster.
+- Login credentials are now also memorized on the iPhone and iPad. They were already memorized on Android.
+- Polls are now also viewable and usable in Mendix Mobile.
+
+Fixes:
+- Links to external sites work now
+- Images can be viewed now
+- in iOS, the app no longer starts upside-down
+- Minor style changes, especially for retina displays
+
+
+Mux patch release 26-3-2013
+Changes:
+- If you see an error somewhere in Mux (e.g. login error), it asks you to send an email to support@mendix.com instead of community@mendix.com
+- Appstore: Old Versions tab contains more info
+
+Fixes
+- Analytics is working again (only used by Mendix staff)
+- People sometimes saw a duplicate message when posting a message themselves. Other didn't see this. This should no longer happen.
